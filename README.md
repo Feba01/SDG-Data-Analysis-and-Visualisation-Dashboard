@@ -1,4 +1,4 @@
-# SDG Data Analysis & Visualization (Asia) — Food Loss/Waste + Farmer Incomes
+*SDG Data Analysis & Visualization (Asia) — Food Loss/Waste + Farmer Incomes*
 
 This project analyzes Asia’s progress toward two UN Sustainable Development Goal targets relevant to a supermarket circular-economy initiative:
 - SDG 2 (Zero Hunger) — Target 2.3: Improve productivity and income of small-scale food producers, with emphasis on equity (e.g., gender and indigenous groups).
